@@ -124,7 +124,7 @@ To run the models:
 
 
 ### Description of the Config File
-The config file regarding the file paths and the hyper parameters is [src/athene/utils/config.py](https://github.com/UKPLab/fever-2018-team-athene/blob/master/src/athene/utils/config.py). The descriptions of each field are followings:
+The config file regarding the file paths and the hyper parameters is [src/athene/utils/config.py]. The descriptions of each field are followings:
 
 |Field|Description|
 |---|---|
@@ -183,10 +183,13 @@ To use exported configurations, launch the pipeline with argument:
 
     PYTHONPATH=src python src/scripts/athene/pipeline.py --config <path/to/output/json>
 ### Contacts:
-If you have any questions regarding the code, please, don't hesitate to contact the authors or report an issue.
+If you have a need to contact the original author from team Athene:
   * \<lastname\>@ukp.informatik.tu-darmstadt.de
   * https://www.informatik.tu-darmstadt.de/ukp/ukp_home/
-  * https://www.tu-darmstadt.de    
+  * https://www.tu-darmstadt.de
+
+If you wants to contact me:
+  * zhangsy031619@163.com
   
 ### License:
   * Apache License Version 2.0
