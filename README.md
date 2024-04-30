@@ -2,6 +2,9 @@
 
 This repository builds upon the system repository developed by team Athene: https://github.com/UKPLab/fever-2018-team-athene
 
+This repository employs system coping with FEVER shared task, and aims to resolve similar tasks to the Fact Extraction and VERification task: 
+https://github.com/sheffieldnlp/naacl2018-fever
+
 This is an accompanying repository for Senyi Zhang’s submission in Professor Jordan Boyd-Graber’s Spring 2024 Tryout.
 
 
